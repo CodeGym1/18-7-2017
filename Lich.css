@@ -1,0 +1,44 @@
+.vien td{
+    border: 1px solid gainsboro;
+    border-collapse: collapse;
+
+}
+table {
+    width: 75%;
+    border-collapse: collapse;
+
+}
+td{
+    font-family: tahoma;
+    font-size: medium;
+    height: 75px;
+    width: 100px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    width: 75%;
+    color: aqua;
+    font-size: 44px;
+}
+tr:nth-child(even) {
+    background-color:floralwhite;
+}
+tr:nth-child(odd) {
+    background-color:#fff;
+}
+.vien{
+    margin-top: 20px;
+}
+th{
+    border: 2px solid white;
+    font-size: medium;
+    font-family: tahoma;
+    height: 50px;
+    width: 100px;
+    text-align: center;
+}
+
+.red{
+color:red ;
+}
