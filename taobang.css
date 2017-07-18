@@ -1,0 +1,27 @@
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+.khong{
+    border: none;
+    width: 50%;
+    color: blue;
+
+}
+h1{
+    text-align: center;
+    color:blue;
+}
+table{
+    width: 100%;
+}
+td, th{
+    padding: 5px;
+    text-align: left;
+}
+th{
+    background-color: gold;
+    text-align: center;
+
+}
